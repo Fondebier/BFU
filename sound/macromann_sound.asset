@@ -1,0 +1,41 @@
+sound =
+{
+	name = "5Uhr45"
+	file = "macromann/5Uhr45.wav"
+	always_load = yes
+	volume = 20
+ 
+}
+sound =
+{
+	name = "ToilSweat"
+	file = "macromann/ToilSweat.wav"
+	always_load = yes
+	volume = 20
+ 
+}
+sound =
+{
+	name = "wehrmachtmann"
+	file = "macromann/wehrmachtmann.wav"
+	always_load = yes
+	volume = 20
+ 
+}
+
+sound =
+{
+	name = "NeverSurrender"
+	file = "macromann/NeverSurrender.wav"
+	always_load = yes
+	volume = 20
+ 
+}
+sound =
+{
+	name = "FinestHour"
+	file = "macromann/FinestHour.wav"
+	always_load = yes
+	volume = 2
+ 
+}

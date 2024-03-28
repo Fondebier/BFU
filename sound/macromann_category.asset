@@ -1,0 +1,10 @@
+category = {
+    name = "Speeches"
+    soundeffects = {
+       5Uhr45
+       ToilSweat
+       NeverSurrender
+       FinestHour
+       wehrmachtmann
+    }
+}

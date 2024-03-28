@@ -1,0 +1,43 @@
+soundeffect = {
+	name = "5Uhr45"
+	sounds = {
+		sound = 5Uhr45
+	}
+	volume = 20
+	
+}
+
+soundeffect = {
+	name = "ToilSweat"
+	sounds = {
+		sound = ToilSweat
+	}
+	volume = 20
+	
+}
+soundeffect = {
+	name = "wehrmachtmann"
+	sounds = {
+		sound = wehrmachtmann
+	}
+	volume = 20
+	
+}
+
+soundeffect = {
+	name = "NeverSurrender"
+	sounds = {
+		sound = NeverSurrender
+	}
+	volume = 20
+	
+}
+
+soundeffect = {
+	name = "FinestHour"
+	sounds = {
+		sound = FinestHour
+	}
+	volume = 2
+	
+}

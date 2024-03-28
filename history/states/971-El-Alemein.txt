@@ -1,0 +1,29 @@
+state={
+	id=971
+	name="STATE_971"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+			
+
+		}
+		
+		add_core_of = WST
+
+		victory_points = {
+			1071 1 
+		}
+		# set_state_flag = AFRICA_COMMONWEALTH_controls
+	}
+
+	provinces={
+		1071 13381 13385 13386 13387 11910 13425 13379 13382 13383
+	}
+
+	
+	manpower=8345
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

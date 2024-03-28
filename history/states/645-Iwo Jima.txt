@@ -1,0 +1,34 @@
+state=
+{
+	id=645
+	name="STATE_645"
+	manpower=1018
+	state_category = small_island
+	history=
+	{
+		set_state_flag = JAP_controls
+		set_state_flag = NOT_PACIFIC_allies_controls
+		owner = JAP
+		1936.1.1.13 = {
+            owner = WST 	
+		}
+		add_core_of = WST
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			13392 = {
+				naval_base = 2
+				coastal_bunker = 2
+			}
+		}
+		victory_points = {
+			13025 5
+		 }
+
+	}
+	provinces={
+		13025 13391 13392 13393 13394
+	}
+
+	local_supplies=0.0 
+}
